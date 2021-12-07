@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/premier1.jpg",
+        "title": "Sooryavanshi",
+        "jounar": "Action/Comedy/Drama"
+    },
+    {
+        "id": 2,
+        "image": "./assets/premier2.jpg",
+        "title": "Satyameva Jayate 2",
+        "jounar": "Action/Drama"
+    },
+    {
+        "id": 3,
+        "image": "./assets/premier3.jpg",
+        "title": "Antim: The Final truth",
+        "jounar": "Action/Crime/Drama"
+    },
+    {
+        "id": 4,
+        "image": "./assets/premier4.jpg",
+        "title": "Tadap",
+        "jounar": "Action/Romantic/Drama"
+    },
+    {
+        "id": 5,
+        "image": "./assets/scroll1.jpg",
+        "title": "Jhinmma",
+        "jounar": "Comedy/Drama/Family"
+    },
+    {
+        "id": 6,
+        "image": "./assets/scroll2.jpg",
+        "title": "Marakkar: Arabikadalinte Simham",
+        "jounar": "Action/Adventure/Historical"
+    },
+    {
+        "id": 7,
+        "image": "./assets/scroll3.jpg",
+        "title": "House Of Gucchi",
+        "jounar": "Biography/Crime/Drama"
+    },
+    {
+        "id": 8,
+        "image": "./assets/scroll4.jpg",
+        "title": "Bunty Or Babli 2",
+        "jounar": "Comedy/Crime"
+    }
+]
