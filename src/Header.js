@@ -11,7 +11,7 @@ function Header() {
     <div>
       <Navbar bg="dark" expand="lg" variant="dark">
         <Container >
-          <Navbar.Brand href="/">bookmyshow</Navbar.Brand>
+          <Navbar.Brand href="/">srushtikashow.com</Navbar.Brand>
 
           <Form className="d-flex">
               <FormControl
