@@ -11,7 +11,7 @@ function Header() {
     <div>
       <Navbar bg="dark" expand="lg" variant="dark">
         <Container >
-          <Navbar.Brand href="/">BookMyShow</Navbar.Brand>
+          <Navbar.Brand href="/">This is branch 1 header</Navbar.Brand>
 
           <Form className="d-flex">
               <FormControl
